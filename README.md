@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Software Engineer, android app enthusiast. Back-end too.<br>🔭 I’m currently working on cafe web application<br>👯 I’m looking to collaborate on<br><br>Shoot me an <a href="mailto:najafajri167@gmail.com" target="_blank">Email</a> or add me on <a href="https://linkedin.com/in/nazjafajrip/" target="_blank">LinkedIn</a>
+I am Software Engineer, android app enthusiast. Back-end too.<br>🔭 I’m currently working on cafe web application<br>👯 I’m looking to collaborate on<br><br>Shoot me an <a href="mailto:najafajri167@gmail.com" target="_blank">Email</a> or add me on <a href="https://linkedin.com/in/nazjafajrip/" target="_blank">LinkedIn</a>.
 
 
 ## 🌐 Socials:

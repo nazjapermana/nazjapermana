@@ -25,6 +25,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/nazjapermana/nazjapermana/output/snake.svg" alt="Snake animation" />
+
+###
+
 [![Nazja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazjapermana&layout=pie&show_icons=true&theme=outrun)](https://github.com/nazjapermana/github-readme-stats)&nbsp;[![Nazja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nazjapermana&layout=pie&show_icons=true&theme=outrun)](https://github.com/nazjapermana/github-readme-stats)
 
 <!--

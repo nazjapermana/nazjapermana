@@ -15,11 +15,15 @@
 
 ### Git Stats
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazjapermana/nazjapermana/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazjapermana/nazjapermana/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nazjapermana/nazjapermana/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 [![Nazja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazjapermana&layout=pie&show_icons=true&theme=outrun)](https://github.com/nazjapermana/github-readme-stats)&nbsp;[![Nazja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nazjapermana&layout=pie&show_icons=true&theme=outrun)](https://github.com/nazjapermana/github-readme-stats)
 

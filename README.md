@@ -3,7 +3,7 @@
 ### Hello World <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />
 
 - 🔭 I’m currently working as fullstack developer
-- 🌱 I’m currently learning about **web frontend** and **DevOps**
+- 🌱 I’m currently learning about **web frontend** and **Mobile Development**
 
 ### Tech Stack
 
